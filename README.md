@@ -1,2 +1,10 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=nkjzm&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkjzm&theme=tokyonight&layout=compact)
+
+
+<div>
+  <a href="https://github.com/nkjzm">
+    <img height="176" src="https://github-readme-stats.vercel.app/api?username=nkjzm&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&theme=tokyonight">
+  </a>
+  <a href="https://github.com/nkjzm">
+    <img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkjzm&layout=compact&theme=tokyonight">
+  </a>
+</div>
